@@ -10,15 +10,31 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1iYicCshgC98LfcswnzdW4kxRSY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -29,11 +45,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602091002867</updated>
-      <workItem from="1602091004203" duration="434000" />
+      <workItem from="1602091004203" duration="27454000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1633" y="371" key="#SQL_Dialects" timestamp="1602169117553">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1633" y="371" key="#SQL_Dialects/0.23.1280.727/1280.23.1920.1057@1280.23.1920.1057" timestamp="1602169117553" />
+    <state x="1827" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602169173288">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1827" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727/1280.23.1920.1057@1280.23.1920.1057" timestamp="1602169173288" />
+    <state x="1887" y="267" key="NewPhpClassDialog" timestamp="1602161210315">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1887" y="267" key="NewPhpClassDialog/0.23.1280.727/1280.23.1920.1057@1280.23.1920.1057" timestamp="1602161210315" />
+    <state x="2050" y="465" key="NewPhpFileDialog" timestamp="1602174080460">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2050" y="465" key="NewPhpFileDialog/0.23.1280.727/1280.23.1920.1057@1280.23.1920.1057" timestamp="1602174080460" />
+    <state x="1736" y="173" width="1234" height="722" key="SettingsEditor" timestamp="1602098357305">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1736" y="173" width="1234" height="722" key="SettingsEditor/0.23.1280.727/1280.23.1920.1057@1280.23.1920.1057" timestamp="1602098357305" />
   </component>
 </project>

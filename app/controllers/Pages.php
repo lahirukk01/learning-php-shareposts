@@ -6,13 +6,22 @@ class Pages extends Controller {
     }
 
     public function index() {
+        if (isLoggedIn()) {
+            redirect('posts');
+        }
+
         $data = [
-            'title' => 'Welcome',
+            'title' => 'SharePosts',
+            'description' => 'Simple social network build on lkkmvc'
         ];
         $this->view('pages/index', $data);
     }
 
     public function about() {
-        $this->view('pages/about', ['title' => 'Hello World']);
+        $data = [
+            'title' => 'About Us',
+            'description' => 'App to share posts with other users'
+        ];
+        $this->view('pages/about', $data);
     }
 }
